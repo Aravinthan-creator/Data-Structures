@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
