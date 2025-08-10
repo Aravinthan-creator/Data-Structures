@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
