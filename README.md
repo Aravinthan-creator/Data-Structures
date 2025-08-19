@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
 | [0933-increasing-order-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0198-house-robber) |
+| [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1848-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
