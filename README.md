@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0069-sqrtx) |
 | [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
