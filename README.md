@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1848-sum-of-unique-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
