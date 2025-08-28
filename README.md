@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1848-sum-of-unique-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,9 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0008-string-to-integer-atoi) |
+## Matrix
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
