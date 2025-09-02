@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1848-sum-of-unique-elements) |
@@ -114,8 +115,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0008-string-to-integer-atoi) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
 ## Matrix
 |  |
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3748-sort-matrix-by-diagonals) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
