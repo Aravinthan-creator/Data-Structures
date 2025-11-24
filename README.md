@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0088-merge-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
