@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0933-increasing-order-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0933-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1848-sum-of-unique-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3748-sort-matrix-by-diagonals) |
 ## Design
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1925-count-square-sum-triples) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
