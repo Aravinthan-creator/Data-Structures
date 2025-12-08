@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
+| [1925-count-square-sum-triples](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1925-count-square-sum-triples) |
 | [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0134-gas-station) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
