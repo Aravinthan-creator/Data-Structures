@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0217-contains-duplicate) |
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
