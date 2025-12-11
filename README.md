@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0039-combination-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0135-candy) |
 ## Enumeration
