@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
