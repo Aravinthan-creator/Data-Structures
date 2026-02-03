@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0198-house-robber) |
+| [0583-delete-operation-for-two-strings](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0583-delete-operation-for-two-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0008-string-to-integer-atoi) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
+| [0583-delete-operation-for-two-strings](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0583-delete-operation-for-two-strings) |
 ## Matrix
 |  |
 | ------- |
