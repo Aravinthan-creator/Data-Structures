@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1848-sum-of-unique-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3379-transformed-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3379-transformed-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
