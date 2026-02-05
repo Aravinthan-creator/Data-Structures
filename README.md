@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0326-power-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1925-count-square-sum-triples) |
 | [3859-maximum-product-of-two-digits](https://github.com/Aravinthan-creator/Data-Structures/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
