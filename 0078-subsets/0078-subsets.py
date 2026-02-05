@@ -1,19 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        subset = []
-        
-        def sub(i):
-            if i == len(nums):
-                res.append(subset[:])
+        n = len(nums)
+        res,sol =[],[]
+
+        def backtrack(i):
+            if i == n:
+                res.append(sol[:])
                 return
-            
-            sub(i+1)
-            subset.append(nums[i])
-                    
-            sub(i+1)
-            subset.pop()
+            backtrack(i+1)
+            sol.append(nums[i])
+            backtrack(i+1)
+            sol.pop()
+        backtrack(0)
+        return res 
         
-        sub(0)
-        
-        return res
