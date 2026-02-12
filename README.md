@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0198-house-robber) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0583-delete-operation-for-two-strings) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0583-delete-operation-for-two-strings) |
