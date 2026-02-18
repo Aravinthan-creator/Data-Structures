@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0933-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
