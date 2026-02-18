@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0404-sum-of-left-leaves) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0404-sum-of-left-leaves) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0404-sum-of-left-leaves) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
