@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0933-increasing-order-search-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0933-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0326-power-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Aravinthan-creator/Data-Structures/tree/master/1925-count-square-sum-triples) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
+| [0227-basic-calculator-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0583-delete-operation-for-two-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Matrix
