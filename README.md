@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0695-max-area-of-island](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0695-max-area-of-island) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
