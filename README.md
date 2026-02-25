@@ -214,10 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
