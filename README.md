@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0208-implement-trie-prefix-tree) |
