@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0227-basic-calculator-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Aravinthan-creator/Data-Structures/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
